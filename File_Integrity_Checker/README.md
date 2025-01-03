@@ -31,8 +31,7 @@ The File Integrity Checker is a Python-based tool designed to monitor and ensure
 
 ## Instructions for Usage
 
-- To get started, clone or download the project repository, Navigate to the project directory:
-r
+- To get started, clone or download the project repository, Navigate to the project directory
 - Run the Script
 Execute the script using the following command:
 
