@@ -31,18 +31,13 @@ The File Integrity Checker is a Python-based tool designed to monitor and ensure
 
 ## Instructions for Usage
 
-- Clone or Download the Project
-To get started, clone or download the project repository. Execute the following command in your terminal or command prompt:
-
-git clone https://github.com/syedrayan5/File-Integrity-Checker.git
-
-Navigate to the project directory:
-
-cd File-Integrity-Checker
+- To get started, clone or download the project repository, Navigate to the project directory:
+r
 - Run the Script
 Execute the script using the following command:
 
 python file_integrity_checker.py
+
 - **Options**
 When you run the script, you will see the following options:
 
