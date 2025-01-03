@@ -62,3 +62,7 @@ MODIFIED FILE: File has changed since the last save.
 DELETED FILE: File was removed after the last save.
 UNCHANGED FILE: File has not changed.
 
+## OUTPUT OF THE TASK :
+![File Integrity Checker Output](https://github.com/user-attachments/assets/be1fac9c-a0bf-4c55-98bb-95c3293f9f55)
+
+
